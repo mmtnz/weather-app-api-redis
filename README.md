@@ -190,7 +190,7 @@ This dummy REST API was built solely for practicing:
 - Reducing latency and external API calls.
 - Efficient REST API design with Node.js.
 
-⚖️ License
+## ⚖️ License
 This project is licensed under the MIT License.
 
 ---
